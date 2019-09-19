@@ -11,13 +11,13 @@ import AddPostEnd from "./panels/AddPostEnd";
 const token = "3337929c7bdc06dfad944e7bc6771217d1848d00e3db3f9a160df8f5c881d7b87bde9bd69218aded0ec57";
 
 //id альбома для загрузки фотографий
-const album_id = "457239086";
+const album_id = "266613132";
 
 //id группы с которой работаем
-const group_id = "165488954";
+const group_id = "60449152";
 
 //картинка по умлочанию должна находиться уже в альбоме группы, при открытии фотки данные можно взять со строки адреса в формате как приведенно ниже
-const defaultPhoto = "photo-165488954_457239086";
+const defaultPhoto = "photo-60449152_457287684";
 
 
 
